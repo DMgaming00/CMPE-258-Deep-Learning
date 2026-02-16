@@ -21,7 +21,7 @@ This repository contains implementations for all 4 parts of Assignment 2.
 
 ## Part C – Cross Platform Mobile App (Flutter)
 🎥 Video Demo:  
-👉 [Add Google Drive Video Link Here]
+👉 [Link](https://drive.google.com/file/d/1Axw54yGnB691TWs5PtPx5HF6dHgsq1LY/view?usp=sharing)
 
 ---
 
