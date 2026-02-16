@@ -6,7 +6,7 @@ Built with:
 - Gemini 2.5 Flash
 
 🎥 Video Walkthrough:  
-👉 [Add Google Drive Video Link Here]
+👉 [Link](https://drive.google.com/file/d/10ZurBgSWjAVvEz9C0w_wUIXqWUgLbKfJ/view?usp=drive_link)
 
 Run Backend:
 cd backend
