@@ -7,7 +7,7 @@ Features:
 - Prompt engineering
 
 🎥 Video Walkthrough:  
-👉 [Add Google Drive Video Link Here]
+👉 [Link](https://drive.google.com/file/d/1a_VQN3XaGAwGrdF1JhQRZnu01XU_IvRD/view?usp=drive_link)
 
 How to Run:
 1. Open in Google Colab
