@@ -7,7 +7,7 @@ Features:
 - Timeline suggestions
 
 🎥 Video Walkthrough:  
-👉 [Add Google Drive Video Link Here]
+👉 [Link](https://drive.google.com/file/d/1Axw54yGnB691TWs5PtPx5HF6dHgsq1LY/view?usp=sharing)
 
 Run:
 flutter pub get
