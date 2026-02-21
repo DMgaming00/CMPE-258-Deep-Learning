@@ -14,7 +14,10 @@ This section covers concepts and implementations related to **Probability for de
 
 ## 🎥 Explanation Video
 
-[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](PASTE_YOUR_DRIVE_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1h-zcEj57hBZDm8cjnkAKbNMPep5tHw8i/view?usp=sharing)
+
+[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1GGL0HbBrcVIyVWUYC7EUSXriwP2rT3bk/view?usp=sharing)
+
 
 ---
 
