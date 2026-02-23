@@ -14,7 +14,10 @@ This section covers concepts and implementations related to **Neural Networks** 
 
 ## 🎥 Explanation Video
 
-[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](PASTE_YOUR_DRIVE_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Eont00Jvx5LZZIOGc2VkXynYrXcE5_5H/view?usp=drive_link)
+
+[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ds2AXz0al4uemwiS5o9b6f1oUkfU1Hvm/view?usp=sharing)
+
 
 ---
 
