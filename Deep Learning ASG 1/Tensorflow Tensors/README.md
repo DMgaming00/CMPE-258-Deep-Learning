@@ -14,7 +14,7 @@ This section covers concepts and implementations related to **Tensorflow Tensors
 
 ## 🎥 Explanation Video
 
-[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](PASTE_YOUR_DRIVE_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1xByyoma_TW4t7ZM-TAyij8pKXb7ENoHp/view?usp=sharing) 
 
 ---
 

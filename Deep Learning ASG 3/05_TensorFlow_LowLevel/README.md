@@ -1,7 +1,7 @@
 # 05 | Deep Neural Network using Low-Level TensorFlow Variables
 
 ## Walkthrough Video
-▶ Walkthrough Video: [Insert YouTube Link Here]
+[▶ Walkthrough Video](https://drive.google.com/file/d/1jC1Z7wu2twPExbCLGVVCKqbrkgbmFTzu/view?usp=sharing)
 *(This video demonstrates code explanation, training output, loss curves, 4D visualization, and GitHub structure overview.)*
 
 ## Objective
