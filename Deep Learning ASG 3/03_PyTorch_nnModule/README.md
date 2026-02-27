@@ -1,7 +1,7 @@
 # 03 | Deep Neural Network using PyTorch nn.Module
 
 ## Walkthrough Video
-▶ Walkthrough Video: [Insert YouTube Link Here]
+[▶ Walkthrough Video](https://drive.google.com/file/d/1C_iDJa9ySlGXDxfSe7jBy9umM08MzI0a/view?usp=sharing)
 *(This video demonstrates code explanation, training output, loss curves, 4D visualization, and GitHub structure overview.)*
 
 ## Objective
