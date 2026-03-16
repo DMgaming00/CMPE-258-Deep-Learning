@@ -3,6 +3,7 @@
 **Course Assignment**: DeepLearning-Generalization-Assignment
 
 **Author**: Dev Mulchandani
+
 **Video Explanation**: [Link to  Explanation Video](videos/video_explanation_link.txt)
 
 ---
