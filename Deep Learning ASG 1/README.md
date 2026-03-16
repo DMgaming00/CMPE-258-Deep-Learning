@@ -21,7 +21,7 @@ This repository contains implementations and exercises covering fundamental deep
 
 ## 🎥 Assignment Walkthrough Video
 
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=google-drive)](PASTE_YOUR_DRIVE_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1hMm44_fy4uwvsr-mrPjYIWgCax_g56lm?usp=sharing)
 
 ---
 
