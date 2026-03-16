@@ -1,8 +1,9 @@
 # Deep Learning Generalization & Advanced Components
 
 **Course Assignment**: DeepLearning-Generalization-Assignment
-**Author**: [Your Name]
-**Video Explanation**: [Link to YouTube/Loom Explanation Video](videos/video_explanation_link.txt)
+
+**Author**: Dev Mulchandani
+**Video Explanation**: [Link to  Explanation Video](videos/video_explanation_link.txt)
 
 ---
 
