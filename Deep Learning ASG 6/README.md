@@ -7,7 +7,13 @@ This repository presents a comprehensive exploration of core deep learning conce
 The goal of this project is to bridge theoretical understanding and practical implementation of deep learning systems.
 
 ---
+## 🎥 Video Walkthroughs
 
+Each notebook has a dedicated explanation video.
+
+👉 Add your video links here.
+
+---
 
 ## 🎯 Objectives
 
@@ -48,13 +54,9 @@ The goal of this project is to bridge theoretical understanding and practical im
 - Learning rate importance
 - Optimization strategies
 
----
 
-## 🎥 Video Walkthroughs
 
-Each notebook has a dedicated explanation video.
 
-👉 Add your video links here.
 
 ---
 
