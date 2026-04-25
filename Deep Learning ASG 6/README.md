@@ -11,7 +11,7 @@ The goal of this project is to bridge theoretical understanding and practical im
 
 Each notebook has a dedicated explanation video.
 
-👉 Add your video links here.
+👉 [All Videos Link](https://drive.google.com/drive/folders/16QASEXpktAaE50ZtkLKC1EADFXRWOXWz?usp=sharing)
 
 ---
 
@@ -70,10 +70,7 @@ Each notebook has a dedicated explanation video.
 
 ## 🔗 Links
 
-- Google Drive Videos: [Add link]
-- YouTube Playlist: [Add link]
-- Colab Notebooks: [Add link]
-
+- Google Drive Videos: [https://drive.google.com/drive/folders/16QASEXpktAaE50ZtkLKC1EADFXRWOXWz?usp=sharing]
 ---
 
 ## 📌 Conclusion
