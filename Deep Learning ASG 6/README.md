@@ -7,26 +7,11 @@ This repository presents a comprehensive exploration of core deep learning conce
 The goal of this project is to bridge theoretical understanding and practical implementation of deep learning systems.
 
 ---
+## 🎥 Video Walkthroughs
 
-## 📂 Repository Structure
+Each notebook has a dedicated explanation video.
 
-.
-├── README.md
-├── Colabs/
-│   ├── activation_functions.ipynb
-│   ├── cnn_fundamentals.ipynb
-│   ├── modern_cnn_architectures.ipynb
-│   ├── optimizers.ipynb
-│   ├── classification_metrics.ipynb
-│   ├── hyperparameter_tuning.ipynb
-│
-├── Videos/
-│   ├── activation_functions_explained.mp4
-│   ├── cnn_fundamentals_explained.mp4
-│   ├── modern_cnn_architectures_explained.mp4
-│   ├── optimizers_explained.mp4
-│   ├── classification_metrics_explained.mp4
-│   ├── hyperparameter_tuning_explained.mp4
+👉 [All Videos Link](https://drive.google.com/drive/folders/16QASEXpktAaE50ZtkLKC1EADFXRWOXWz?usp=sharing)
 
 ---
 
@@ -69,13 +54,9 @@ The goal of this project is to bridge theoretical understanding and practical im
 - Learning rate importance
 - Optimization strategies
 
----
 
-## 🎥 Video Walkthroughs
 
-Each notebook has a dedicated explanation video.
 
-👉 Add your video links here.
 
 ---
 
@@ -89,10 +70,7 @@ Each notebook has a dedicated explanation video.
 
 ## 🔗 Links
 
-- Google Drive Videos: [Add link]
-- YouTube Playlist: [Add link]
-- Colab Notebooks: [Add link]
-
+- Google Drive Videos: [https://drive.google.com/drive/folders/16QASEXpktAaE50ZtkLKC1EADFXRWOXWz?usp=sharing]
 ---
 
 ## 📌 Conclusion
