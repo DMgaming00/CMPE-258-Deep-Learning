@@ -1,4 +1,4 @@
-# 🚀 GOD-TIER Deep Learning Portfolio
+# 🚀 Deep Learning Portfolio
 
 ## 🌍 Unified Theory of Deep Learning Systems
 
