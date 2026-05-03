@@ -1,27 +1,52 @@
-# 👁️ GOD-TIER Vision Transformers
+# 👁️ Vision Transformers
 
-## 🧠 Key Innovation
+## 🧠 Key Idea
 
-Images treated as sequences of patches
-
----
-
-## ⚙️ Trade-off
-
-CNN:
-Local bias
-
-ViT:
-Global attention
+Image → patches → sequence
 
 ---
 
-## 📊 Scaling Law
+## ⚙️ Patch Embedding
 
-Performance ∝ data + model size
+224×224 → 16×16 patches → 196 tokens
 
 ---
 
-## 🧠 Insight
+## 🔍 Attention
 
-Vision becomes NLP over pixels
+Global relationships between patches
+
+---
+
+## 📊 ViT Pipeline
+
+Image → Patch → Transformer → Output
+
+---
+
+## 🔥 Models
+
+- ViT
+- CLIP
+- DINOv2
+- SAM
+
+---
+
+## 📈 Observations
+
+- ViT scales better than CNNs
+- Needs large datasets
+
+---
+
+## ❗ Limitations
+
+- Data hungry
+- Computationally expensive
+
+---
+
+## 🎯 Insight
+
+> Vision = **sequence modeling over pixels**
