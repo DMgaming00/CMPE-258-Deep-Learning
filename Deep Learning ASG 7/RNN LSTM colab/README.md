@@ -1,47 +1,92 @@
-# 🔁 GOD-TIER Sequence Modeling
+# 🔁 Sequence Models: RNN → LSTM → GRU → WaveNet
 
-## 🧠 Mathematical Objective
+## 🧠 Problem Definition
 
-Maximize likelihood:
+Given a sequence:
 
-L = Σ log P(xₜ | x₁,...,xₜ₋₁)
+\[
+x_1, x_2, ..., x_t
+\]
 
----
+We model:
 
-## ⚠️ Vanishing Gradient Problem
-
-Gradient propagation:
-
-∂L/∂hₜ ∝ Π Wₕ
-
-→ exponential decay
+\[
+P(x_t | x_1, ..., x_{t-1})
+\]
 
 ---
 
-## 🔐 LSTM Deep Insight
+## 🔁 Recurrent Neural Networks (RNN)
 
-Memory cell acts as:
+\[
+h_t = \tanh(W_x x_t + W_h h_{t-1})
+\]
 
-cₜ ≈ identity path
-
-→ prevents gradient decay
-
----
-
-## ⚡ WaveNet Insight
-
-Dilated convolutions create:
-
-Exponential receptive field growth
-
-→ efficient long-term memory
+### ❗ Problem
+- Vanishing gradients:
+\[
+\frac{\partial L}{\partial h_t} \propto \prod W_h
+\]
 
 ---
 
-## 🎯 When to Use
+## 🔐 LSTM
 
-| Scenario | Model |
-|---------|------|
-| Small data | GRU |
-| Long sequences | LSTM |
-| Parallel tasks | Transformer/WaveNet |
+Memory cell:
+
+\[
+c_t = f_t \cdot c_{t-1} + i_t \cdot \tilde{c}_t
+\]
+
+### ✅ Advantage
+- Preserves long-term dependencies
+
+---
+
+## ⚡ GRU
+
+Simplified LSTM:
+
+- Update gate
+- Reset gate
+
+Faster and efficient
+
+---
+
+## 🌊 WaveNet
+
+Uses:
+- Causal convolutions
+- Dilated convolutions
+
+Receptive field:
+
+\[
+R = (k-1) \cdot 2^L
+\]
+
+---
+
+## 📊 Comparison
+
+| Model | Pros | Cons |
+|------|------|------|
+| RNN | Simple | Poor memory |
+| LSTM | Long memory | Heavy |
+| GRU | Efficient | Less expressive |
+| WaveNet | Parallel | Complex |
+
+---
+
+## 📈 Results
+
+- LSTM > RNN
+- GRU ≈ LSTM (faster)
+- WaveNet handles long context best
+
+---
+
+## 🎯 Insight
+
+> Sequence learning = **information flow across time**
