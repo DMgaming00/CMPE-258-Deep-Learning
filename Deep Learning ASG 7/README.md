@@ -59,18 +59,10 @@ Where different domains impose different **structures**:
 
 ---
 
-## 🎥 Video Explanations
-
-- 🔁 Sequence Models → [Add YouTube Link]
-- 🧠 NLP Evolution → [Add Link]
-- 👁️ Vision Transformers → [Add Link]
-- 🌐 GNNs → [Add Link]
-
----
 
 ## ☁️ Google Drive (All Videos)
 
-👉 [Add Drive Link]
+👉 [https://drive.google.com/drive/folders/1GnYVQW2PCM79PLt4Qu9U0Yo0-hmMp5br?usp=sharing]
 
 ---
 
