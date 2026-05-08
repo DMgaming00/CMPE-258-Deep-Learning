@@ -1,56 +1,110 @@
-# 🚀 GOD-TIER Deep Learning Portfolio
+# 🚀 Deep Learning Systems Portfolio
 
-## 🌍 Unified Theory of Deep Learning Systems
+## 🧠 Overview
 
-This repository presents a **research-grade, system-level understanding** of modern AI architectures.
+This repository presents a **comprehensive, research-oriented exploration of modern deep learning architectures**, spanning four fundamental domains:
+
+- 🔁 Sequence Models (RNN, LSTM, GRU, WaveNet)
+- 🧠 Natural Language Processing (Word2Vec → Transformers → GPT)
+- 👁️ Vision Transformers (ViT, CLIP, DINOv2, SAM)
+- 🌐 Graph Neural Networks (GNNs)
+
+This work goes beyond implementation — it focuses on:
+
+> **Mathematical understanding, architectural intuition, and system-level reasoning**
 
 ---
 
-## 🧠 Core Thesis
+## 🎯 Core Objective
 
-All modern deep learning systems can be unified as:
+The project follows a rigorous learning pipeline:
 
-> Structured function approximators over different data manifolds
+> **Understand → Implement → Analyze → Explain**
 
-| Domain | Structure | Model Family |
-|------|--------|-------------|
-| Sequences | Temporal | RNN, LSTM, GRU |
+Each Colab notebook is:
+- Fully executed
+- Interpreted block-by-block
+- Explained through video walkthroughs
+- Documented for reproducibility
+
+---
+
+## 🧠 Unifying Perspective
+
+All deep learning models can be viewed as:
+
+\[
+f_\theta: X \rightarrow Y
+\]
+
+Where different domains impose different **structures**:
+
+| Domain | Structure | Model Type |
+|------|--------|-----------|
+| Sequences | Temporal | RNN / LSTM / GRU |
 | Language | Semantic | Transformers |
-| Vision | Spatial | ViT |
+| Vision | Spatial | CNN / ViT |
 | Graphs | Relational | GNN |
 
 ---
 
-## ⚙️ Architectural Lens
+## ⚙️ Architectural Comparison
 
-Each model differs in:
-- Information flow
-- Memory mechanism
-- Inductive bias
-- Computational complexity
-
----
-
-## 📊 Model Comparison
-
-| Model | Complexity | Parallelism | Long-range Dependencies |
-|------|-----------|------------|------------------------|
+| Model | Time Complexity | Parallelism | Long-Range Memory |
+|------|----------------|------------|------------------|
 | RNN | O(n) | ❌ | ❌ |
 | LSTM | O(n) | ❌ | ✅ |
 | Transformer | O(n²) | ✅ | ✅ |
-| GNN | O(E) | Partial | Local-global |
+| GNN | O(E) | Partial | Local + Global |
 
 ---
 
-## 🧠 Learning Theory Insight
 
-Generalization arises from:
-- Proper inductive bias
-- Efficient representation learning
-- Optimization stability
+## ☁️ Google Drive (All Videos)
+
+👉 [https://drive.google.com/drive/folders/1GnYVQW2PCM79PLt4Qu9U0Yo0-hmMp5br?usp=sharing]
+
+---
+
+## 🧠 Key Learning Outcomes
+
+- Representation learning across domains
+- Understanding inductive biases
+- Training deep neural networks
+- Explaining models clearly
+
+---
+
+## 📈 Results & Observations
+
+- LSTMs outperform RNNs in long sequences
+- Transformers dominate NLP due to attention
+- ViTs scale better with data than CNNs
+- GNNs excel in relational data
+
+---
+
+## ❗ Limitations
+
+- Transformers → O(n²) scaling issue
+- GNNs → over-smoothing problem
+- RNNs → unstable gradients
+
+---
+
+## 🚀 Future Work
+
+- Sparse attention mechanisms
+- Graph Transformers
+- Multimodal models (Vision + Language)
 
 ---
 
 ## 🎯 Final Insight
 
-> Intelligence = Representation + Structure + Optimization
+> Intelligence emerges from the interaction of:
+> **Representation + Structure + Optimization**
+
+---
+
+## Assignment done by :- Dev Mulchandani

@@ -1,25 +1,45 @@
-# 🌐 GOD-TIER Graph Neural Networks
+# 🌐 Graph Neural Networks
 
-## 🧠 Core Equation
+## 🧠 Graph Definition
 
-hᵢ⁽ˡ⁺¹⁾ = σ( Σⱼ∈N(i) W hⱼ⁽ˡ⁾ )
-
----
-
-## ⚠️ Over-smoothing
-
-Deep GNNs:
-Node representations converge
+\[
+G = (V, E)
+\]
 
 ---
 
-## 📊 Strength
+## 🔁 Message Passing
 
-Captures relational structure
+\[
+h_i^{(l+1)} = \sigma\left(\sum_{j \in N(i)} W h_j^{(l)}\right)
+\]
+
+---
+
+## 📊 Graph Convolution
+
+\[
+H^{(l+1)} = \sigma(D^{-1/2} A D^{-1/2} H^{(l)} W)
+\]
+
+---
+
+## 📈 Applications
+
+- Social networks
+- Molecules
+- Recommendation systems
+
+---
+
+## ❗ Challenges
+
+- Over-smoothing
+- Scalability
+- Sparse data
 
 ---
 
 ## 🎯 Insight
 
-Graphs encode:
-> dependencies impossible in grids/sequences
+> Learning = **aggregation of neighborhood information**

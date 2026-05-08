@@ -1,35 +1,69 @@
-# 🧠 GOD-TIER NLP
+# 🧠 NLP: From Word2Vec to ChatGPT
 
-## 🧬 Core Idea
+## 🧬 Tokenization
 
-Language = Probability distribution over sequences
+Text → Tokens → Numbers
 
----
-
-## 🔥 Transformer Dominance
-
-Self-attention learns:
-
-Dynamic dependency graph
+Types:
+- Character
+- Word
+- Subword
 
 ---
 
-## 📊 Complexity Trade-off
+## 🔢 Word Embeddings
 
-Attention:
-O(n²)
+\[
+\text{similarity} = \frac{A \cdot B}{||A|| ||B||}
+\]
 
-But provides:
+Example:
+king - man + woman ≈ queen
+
+---
+
+## ⚡ Attention
+
+\[
+\text{Attention}(Q,K,V) = \text{softmax}(QK^T / \sqrt{d})V
+\]
+
+---
+
+## 🔥 Transformers
+
+Advantages:
+- Parallel computation
 - Global context
-- Parallel training
 
 ---
 
-## 🧠 GPT Insight
+## 🧠 GPT vs BERT
 
-Autoregressive factorization:
+| Model | Type |
+|------|------|
+| GPT | Autoregressive |
+| BERT | Bidirectional |
 
-P(x) = Π P(xₜ | x₁,...,xₜ₋₁)
+---
+
+## 📈 Observations
+
+- Attention > RNN for long sequences
+- Transformers scale better
+
+---
+
+## ❗ Limitations
+
+- O(n²) complexity
+- High compute cost
+
+---
+
+## 🎯 Insight
+
+> Language understanding = **geometry in embedding space**
 
 ---
 
