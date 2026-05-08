@@ -21,7 +21,7 @@ Based on the **2026 Comprehensive Survey** (*Zhang et al.*), this project moves 
 | Deliverable | Description | Link |
 | :--- | :--- | :--- |
 | **Medium Article** | *The Mirage in the Machine*: A premium, illustrated deep-dive into 2026 research trends. | [Medium_Article.md](./Medium_Article.md) |
-| **Colab Notebook** | *Advanced Research Reproduction*: Theory + 5 executable experiments with GPT-2. | [Advanced_Colab_Notebook.ipynb](./Advanced_Colab_Notebook.ipynb) |
+| **Colab Notebook** | *Advanced Research Reproduction*: Theory + 5 executable experiments with GPT-2. | [Advanced_Short Story Colab_(Dev_M).ipynb](https://colab.research.google.com/drive/1luOZQVc4EkAs6b_GHuaFM1cbC7URWyci?usp=sharing) |
 | **Slide Deck** | Academic presentation outline for a 20-minute research defense. | [Slide_Deck_Outline.md](./Slide_Deck_Outline.md) |
 | **Video Script** | Full script for a 15-25 minute educational video walkthrough. | [Video_Script.md](./Video_Script.md) |
 
@@ -30,7 +30,7 @@ Based on the **2026 Comprehensive Survey** (*Zhang et al.*), this project moves 
 The `Advanced_Colab_Notebook.ipynb` implements the `autoresearch` template to reproduce key findings from the 2026 survey.
 
 ### Running Experiments:
-1.  Open the [Notebook](./Advanced_Colab_Notebook.ipynb) in Google Colab.
+1.  Open the [Notebook](https://colab.research.google.com/drive/1luOZQVc4EkAs6b_GHuaFM1cbC7URWyci?usp=sharing) in Google Colab.
 2.  Install dependencies: `!pip install transformers torch sentence-transformers faiss-cpu`
 3.  Execute **Experiment 3** to see real-time **Token-Level Entropy** and how confidence $\neq$ correctness.
 4.  Execute **Experiment 4** to see how **RAG** grounds probabilistic generation in deterministic truth.
