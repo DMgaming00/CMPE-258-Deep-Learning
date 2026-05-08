@@ -46,4 +46,6 @@ The `Advanced_Colab_Notebook.ipynb` implements the `autoresearch` template to re
 *   *This project was completed as part of the DL Mastery Short Story Assignment.*
 
 ---
-*Created by [Your Name] | 2026*
+*Created by Dev Mulchandani | 2026*
+*SJSU ID:- 019147102*
+*CMPE 258 Deep Learning*
