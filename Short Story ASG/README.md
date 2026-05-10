@@ -10,6 +10,8 @@ This repository contains a high-level academic research suite focused on the **T
 
 Based on the **2026 Comprehensive Survey** (*Zhang et al.*), this project moves beyond viewing hallucinations as simple "bugs." Instead, we analyze them as fundamental byproducts of probabilistic transformer architectures. We propose and demonstrate a **"Defense-in-Depth"** architecture to build resilient AI systems for high-stakes domains like Law, Medicine, and Finance.
 
+## 📌Large Language Models Hallucination: A Comprehensive Survey :- [Research Paper Link](https://arxiv.org/abs/2510.06265?utm_source=chatgpt.com)
+
 ## 🔬 Core Research Pillars
 1.  **Taxonomy & Anatomy**: Classifying failures into Intrinsic, Extrinsic, and the newly emergent **Agentic Hallucinations**.
 2.  **Theoretical Root Causes**: Mathematical analysis of the **Softmax Bottleneck**, **RLHF Sycophancy**, and **Exposure Bias**.
