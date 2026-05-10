@@ -23,7 +23,7 @@ Based on the **2026 Comprehensive Survey** (*Zhang et al.*), this project moves 
 | **Medium Article** | *The Mirage in the Machine*: A premium, illustrated deep-dive into 2026 research trends. | [Medium_Article](https://medium.com/@devchandralal.mulchandani/the-mirage-in-the-machine-decoding-llm-hallucinations-34dbfb3f3fa7) |
 | **Colab Notebook** | *Advanced Research Reproduction*: Theory + 5 executable experiments with GPT-2. | [Advanced_Short Story Colab_(Dev_M).ipynb](https://colab.research.google.com/drive/1luOZQVc4EkAs6b_GHuaFM1cbC7URWyci?usp=sharing) |
 | **Slide Deck** | Academic presentation outline for a 20-minute research defense. | [Slide_Deck_Drive Link](https://drive.google.com/file/d/1JkK1g3b0QR3pya8OXkCnQF7mGXRuoOIE/view?usp=sharing) |
-| **Video Script** | Full educational video walkthrough. | [Video_Drive Link](https://drive.google.com/file/d/1S2Yc94f2FSPYrjO5kG5Ju7lB_Ja-wkbn/view?usp=sharing) |
+| **Video Script** | Full educational video walkthrough. | [Video_Drive Link](https://drive.google.com/file/d/1pSj4PeJu11MTrb2VwR7GLXJ0ljJ2EmTm/view?usp=sharing) |
 
 ## 🚀 Getting Started (Colab Reproduction)
 
